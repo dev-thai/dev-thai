@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thainara 👋
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 
 <div align="center">
   <a href="https://github.com/dev-thai">
